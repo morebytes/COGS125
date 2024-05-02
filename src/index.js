@@ -12,12 +12,6 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
-    // children: [
-    //   {
-    //     path: "/skills/",
-    //     element: <Skills />,
-    //   },
-    // ],
   },
   {
     path: "/skills/",
@@ -27,7 +21,6 @@ const router = createBrowserRouter([
 
 root.render(
   <StrictMode>
-    {/* <App /> */}
     <RouterProvider router={router} />
-  </StrictMode>
+  </StrictMode>,
 );
