@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/morebytes/COGS125/static/css/main.fc5c2c69.css",
-    "main.js": "/morebytes/COGS125/static/js/main.8b4e5457.js",
-    "index.html": "/morebytes/COGS125/index.html",
-    "main.fc5c2c69.css.map": "/morebytes/COGS125/static/css/main.fc5c2c69.css.map",
-    "main.8b4e5457.js.map": "/morebytes/COGS125/static/js/main.8b4e5457.js.map"
+    "main.css": "/COGS125/static/css/main.fc5c2c69.css",
+    "main.js": "/COGS125/static/js/main.8b4e5457.js",
+    "index.html": "/COGS125/index.html",
+    "main.fc5c2c69.css.map": "/COGS125/static/css/main.fc5c2c69.css.map",
+    "main.8b4e5457.js.map": "/COGS125/static/js/main.8b4e5457.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
